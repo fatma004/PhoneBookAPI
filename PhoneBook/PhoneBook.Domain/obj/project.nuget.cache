@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmrI7IB+ZpeC6xWdErVTNTte/hteQeQD0Alq/eourte8uR4wEmxsoLJfufpS6kHq/0AWpJWTYpUzal4ad+7XHQ==",
+  "dgSpecHash": "Rio2GaH5O9O4lI5p3mkoHuRH31Djb8J7BxHfFKsgKmTlPZFhytnGbNots4DwpiHy6l+5pMC4wSUZHJun+ir39w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALL IN ONE\\Desktop\\last - Copy - Copy\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBookAPI\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALL IN ONE\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\ALL IN ONE\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

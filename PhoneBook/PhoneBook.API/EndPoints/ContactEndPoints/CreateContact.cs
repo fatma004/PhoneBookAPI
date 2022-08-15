@@ -1,6 +1,7 @@
 ﻿using Ardalis.ApiEndpoints;
 using AutoMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PhoneBook.Application.Features.Contact.Command.CreateContact;
 
@@ -15,6 +16,7 @@ namespace PhoneBook.API.EndPoints.ContactEndPoints
             _mapper = mapper;
             _mediator = mediator;
         }
+        [Authorize]
         [HttpPost("AddContact")]
         public override async Task<ActionResult<System.Guid>> HandleAsync(CreateContactRequest request, CancellationToken cancellationToken = default)
         {

@@ -1,6 +1,7 @@
 ﻿using Ardalis.ApiEndpoints;
 using AutoMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PhoneBook.Application.Features.Contact.Command.DeleteContact;
 
@@ -15,6 +16,8 @@ namespace PhoneBook.API.EndPoints.ContactEndPoints
             _mapper = mapper;
             _mediator = mediator;
         }
+
+        [Authorize]
         [HttpDelete("DeleteContact")]
         public override async Task<ActionResult> HandleAsync(DeleteContactRequest request, CancellationToken cancellationToken = default)
         {

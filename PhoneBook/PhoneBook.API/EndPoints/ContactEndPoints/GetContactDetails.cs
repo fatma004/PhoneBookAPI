@@ -1,6 +1,7 @@
 ﻿using Ardalis.ApiEndpoints;
 using AutoMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PhoneBook.Application.Features.Contact.Query.GetContactDetails;
 
@@ -15,6 +16,8 @@ namespace PhoneBook.API.EndPoints.ContactEndPoints
             _mapper = mapper;
             _mediator = mediator;
         }
+
+        [Authorize]
         [HttpGet("GetContactDetails/{ContactId:Guid}")]
         public override async Task<ActionResult<GetContactDetailsResponse>> HandleAsync([FromRoute] Guid ContactId, CancellationToken cancellationToken = default)
         {

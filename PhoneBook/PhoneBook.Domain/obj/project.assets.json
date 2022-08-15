@@ -1730,11 +1730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALL IN ONE\\Desktop\\last - Copy - Copy\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBookAPI\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
       "projectName": "PhoneBook.Domain",
-      "projectPath": "C:\\Users\\ALL IN ONE\\Desktop\\last - Copy - Copy\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
+      "projectPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBookAPI\\PhoneBook\\PhoneBook.Domain\\PhoneBook.Domain.csproj",
       "packagesPath": "C:\\Users\\ALL IN ONE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALL IN ONE\\Desktop\\last - Copy - Copy\\PhoneBook\\PhoneBook.Domain\\obj\\",
+      "outputPath": "C:\\Users\\ALL IN ONE\\Desktop\\PhoneBookAPI\\PhoneBook\\PhoneBook.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ALL IN ONE\\AppData\\Roaming\\NuGet\\NuGet.Config",

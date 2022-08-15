@@ -1,6 +1,7 @@
 ﻿using Ardalis.ApiEndpoints;
 using AutoMapper;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using PhoneBook.Application.Features.Contact.Command.UpdateContact;
 
@@ -15,6 +16,8 @@ namespace PhoneBook.API.EndPoints.ContactEndPoints
             _mapper = mapper;
             _mediator = mediator;
         }
+
+        [Authorize]
         [HttpPut("UpdateContact")]
         public override async Task<ActionResult> HandleAsync(UpdateContactRequest request, CancellationToken cancellationToken = default)
         {
