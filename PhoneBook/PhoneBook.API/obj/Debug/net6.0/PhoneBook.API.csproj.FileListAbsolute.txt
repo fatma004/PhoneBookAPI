@@ -1,0 +1,235 @@
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.exe
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.deps.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.API.styles.css
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\refint\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\obj\Debug\net6.0\ref\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.exe
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.API.styles.css
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\refint\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\ref\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\refint\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.exe
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.API.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Ardalis.ApiEndpoints.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\scopedcss\bundle\PhoneBook.API.styles.css
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\PhoneBook.API.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.API\obj\Debug\net6.0\ref\PhoneBook.API.dll

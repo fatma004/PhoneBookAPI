@@ -1,0 +1,57 @@
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.deps.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\refint\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\ref\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\refint\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\ref\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.runtimeconfig.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\refint\PhoneBook.Persistence.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\PhoneBook.Persistence.genruntimeconfig.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Persistence\obj\Debug\net6.0\ref\PhoneBook.Persistence.dll

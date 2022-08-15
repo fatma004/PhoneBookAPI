@@ -1,0 +1,45 @@
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.deps.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\refint\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\ref\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\refint\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\ref\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\refint\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Application.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\PhoneBook.Application.csproj.CopyComplete
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Application\obj\Debug\net6.0\ref\PhoneBook.Application.dll

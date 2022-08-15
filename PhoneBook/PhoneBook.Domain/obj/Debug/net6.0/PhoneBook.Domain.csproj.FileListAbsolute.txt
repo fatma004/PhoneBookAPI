@@ -1,0 +1,36 @@
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.deps.json
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\refint\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\ref\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\refint\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\ref\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.deps.json
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\bin\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.AssemblyReference.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfoInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.AssemblyInfo.cs
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\refint\PhoneBook.Domain.dll
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\PhoneBook.Domain.pdb
+C:\Users\ALL IN ONE\Desktop\last - Copy - Copy\PhoneBook\PhoneBook.Domain\obj\Debug\net6.0\ref\PhoneBook.Domain.dll
